@@ -5,6 +5,7 @@ const nextConfig = {
   },
 };
 
+moule.exports = nextConfig;
 module.exports = {
   output: 'export',
   // If your GitHub Pages site is hosted in a subdirectory, specify the `basePath`
